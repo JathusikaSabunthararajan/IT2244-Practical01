@@ -1,4 +1,4 @@
-![pwd](https://github.com/user-attachments/assets/f1557d18-7c73-4de0-9026-5ed4bafe907d)CMD Commands.........................
+CMD Commands.........................
 
 
 In This practical we created batch files. Here are the explanation of some lines
@@ -24,33 +24,41 @@ birth year.
 Linux Commands.................................
 
 ![pwd](https://github.com/user-attachments/assets/f619dbde-6f54-4b62-a5cf-b4cec82fa2a9)
+
 In this practical we tried pwd command in linux to find the current directory
 
 ![mkdir](https://github.com/user-attachments/assets/e0e00c2f-ed88-41a0-94ed-a86bfd7cfd2e)
+
 In this practical we tried mkdir linux command to make dirctories .
 
 
 ![awk](https://github.com/user-attachments/assets/3217eb1e-6031-4422-b295-b2d67f0c1a79)
+
 In this practical we tried awk command to findpattern matching and data extraction. Using this 
 we can select specific fields in a file
 
 ![sed](https://github.com/user-attachments/assets/c2eae63f-6000-4f6f-a4cd-38c6d0edfcd3)
+
 In this practical we tried sed command in linux terminal. It stands for stream editor. For basic text 
 transformations on an input stream or file.
 Help to search, replace, delete, insert
 
 ![find](https://github.com/user-attachments/assets/f5109f1d-28fe-40fa-a6f2-5a04b74a1419)
+
 In this practical we tried find command in linux terminal to search for files and directions 
 within a directory using name, date, modification date.
 
 ![ls](https://github.com/user-attachments/assets/f6a8e59f-2b1d-4959-b3a1-097b652fa60d)
+
 In this practical we tried ls linux commands to find list of files
 
 ![ltr](https://github.com/user-attachments/assets/56bed302-6fe3-4877-b2ce-a8dc8c018f86)
+
 In this practical we tried ls -ltr linux command to find list of files in long format sorted by
 modification time , in reverse order
 
 ![ls-a](https://github.com/user-attachments/assets/9ee484a5-8197-421d-acc1-2d045f886868)
+
 In this practical we tried ls -a linux command to list all files including hidden files.
 
 ![cd](https://github.com/user-attachments/assets/8e5233d3-3b69-4ffc-a9b1-47fcbe874e13)
